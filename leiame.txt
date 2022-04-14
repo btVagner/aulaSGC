@@ -8,3 +8,5 @@ alteração feita por tcharles com a branch master
 >>>>>>> 3a67503f0969e882d464974b82117e0d098fdace
 
 alteração com branch bruno
+
+alteração com a branch tcharles
